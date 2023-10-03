@@ -1,0 +1,14 @@
+{
+  "short_name": "Calculator",
+  "name": "React Calculator",
+  "icons": [
+
+  ],
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#dfe9f5",
+  "description": "Calculator created in react application.",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "display_override": ["standalone"]
+}
